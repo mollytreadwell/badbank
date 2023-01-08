@@ -5,7 +5,7 @@ function Home(){
             txtcolor="black"
             header="Bad Bank Home Page"
             title="Welcome to the Bank"
-            text="For all of your banking needs"
+            text="Baddest Bank Around"
             body={(
             <>
             <img src="/pigbank.jpg" className="img-fluid" alt="Responsive image" width="350"/><br/>

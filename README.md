@@ -25,3 +25,7 @@ The current features for Bad Bank include allowing a user to create an account w
 Moving forward, I hope to include more variety and security. 
 I will add a <b>password clue</b> menu, for scenarios where the user forgets theirs, as well as a <b>password reset</b> feature where the user is sent an email with a confirmation code and link to reset their password for whatever reason. 
 Additionally, I would like to add more functionality like loans, insurance, and other such factors that take into consideration regular billing, interest rates and credit adjustments. 
+
+  ### License 
+  
+  ISC
